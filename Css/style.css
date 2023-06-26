@@ -1,12 +1,104 @@
-body {background: rgb(184,140,235);
-  background: linear-gradient(0deg, rgba(184,140,235,1) 0%, rgba(235,150,210,1) 67%);}
-hr{border-color: rgba(211, 95, 130, 0.712);
+body { 
+text-align: center;
+  margin: 2%;
+  background: rgb(215,183,252);
+  background: linear-gradient(0deg, rgba(215,183,252,1) 0%, rgba(252,195,213,1) 72%);
+  font-family: 'Pacifico', cursive;}
+
+ hr {border-color: rgba(211, 95, 130, 0.712);
   border-style:none;
   border-top-style: dotted;
   border-width: 10px;
-height: 0px;
- width: 6%;}
-img{ height: 300px;}
-h1{background-color: #771938f3;
-color: rgb(231, 79, 104);
-width: 20px;}
+  height: 0px;
+  width: 6%;}
+
+ img { height: 300px;}
+
+ h3 { font-family: 'Permanent Marker', cursive;}
+
+h1 {margin: 0 auto;
+  margin-top: 0;
+color: rgb(230, 119, 128);
+width: 20px;
+height: 80px;
+display:inline;
+font-family: 'Bagel Fat One', cursive;}
+
+/********************CLASS SELECTOR*******************/
+.circular { border-radius: 40%;}
+.center {margin-left: auto;
+margin-right: auto;}
+
+.im-esa {font-size: 130px;
+  height: 375px;
+  width: 100px;
+position: absolute;
+top: 100px;
+left: 1150px;}
+
+.cloud-l {height: 200px;
+position: absolute;
+top: 150px;
+left: 750px;}
+
+.dmplng {height: 300px;
+position: absolute;
+right: 300px;
+top: 650px;}
+
+.bou {height: 200px;
+position: absolute;
+right: 200px;}
+
+.bou-1 {height: 250px;
+position: absolute;
+left: 500px;
+top: 550px;}
+
+.stbry {height: 200px;
+position: absolute;
+left: 50px;}
+
+.stbry-1 {height: 250px;
+position: absolute;
+right: 80px;
+top: 400px;}
+
+.cloud-s { height: 250px;
+   position: absolute;
+  right: 450px;
+  top: 300px;}
+
+  .cloud-r { height: 150px;
+    left: 900px;
+    position: absolute;
+   top: 700px;}
+
+  .hlo-cat { height: 600px;
+    position: absolute;
+    left: 1030px;
+  top: 500px;}
+
+  .puni {height: 200px;
+  position: absolute;
+left: 250px;
+top: 300px;}
+
+.bunny {height: 300px;
+position: absolute;
+right: 700px;
+top: 400px;}
+
+.bnyluv {height: 300px;
+position: absolute;
+left: 150px;
+top: 650px;}
+
+.str {height: 250px;
+position: absolute;
+right: 700px;
+top: 50px;}
+  
+  .middle-container {padding-top: 870px;}
+  .bottom-container {padding-top: 50px;}
+  
