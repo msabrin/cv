@@ -1,0 +1,311 @@
+body { margin: 0%;
+text-align: center;
+  background: rgb(215,183,252);
+  background: linear-gradient(0deg, rgba(215,183,252,1) 0%, rgba(252,195,213,1) 72%);
+  font-family: 'Pacifico', cursive;}
+
+ hr {border-color: rgba(211, 95, 130, 0.712);
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 10px;
+  height: 0px;
+  width: 8%;}
+
+ img { height: 300px;}
+
+ h3 { font-family: 'Permanent Marker', cursive;
+text-decoration: solid; font-size: 35px;}
+
+h1 {margin: 0 auto;
+  margin-top: 0;
+color: rgb(230, 119, 128);
+width: 20px;
+height: 80px;
+display:inline;
+font-family: 'Bagel Fat One', cursive;
+font-size: 50px;}
+
+a {color: rgb(182, 50, 112);
+image-resolution: 10px 20px;
+text-decoration: none;
+font-size: 1.5em;
+margin: 10px 20px;}
+
+a:hover {color: rgb(169, 79, 253);}
+
+p {font-size: 20px;}
+
+/********************CLASS SELECTOR*******************/
+.circular { border-radius: 40%;}
+.center {margin-left: auto;
+margin-right: auto;}
+
+.im-esa {font-size: 130px;
+height: 375px;
+width: 100px;
+text-align: center;
+line-height: 1;}
+
+.cloud-l {height: 200px;
+position: relative;
+top: 150px;
+right: 420px;}
+
+.dmplng {height: 300px;
+position: absolute;
+right: 300px;
+top: 650px;}
+
+.bou {height: 200px;
+position: absolute;
+right: 200px;}
+
+.bou-1 {height: 250px;
+position: absolute;
+left: 500px;
+top: 550px;}
+
+.stbry {height: 200px;
+position: absolute;
+left: 50px;}
+
+.stbry-1 {height: 250px;
+position: absolute;
+right: 80px;
+top: 400px;}
+
+.cloud-s { height: 250px;
+position: absolute;
+right: 450px;
+top: 300px;}
+
+.cloud-r { height: 150px;
+left: 900px;
+position: absolute;
+top: 700px;}
+
+.hlo-cat { height: 600px;
+position: absolute;
+top: 520px;
+right: 900px;}
+
+.puni {height: 200px;
+position: absolute;
+left: 250px;
+top: 300px;}
+
+.bunny {height: 300px;
+position: absolute;
+right: 700px;
+top: 400px;}
+
+.bnyluv {height: 300px;
+position: absolute;
+left: 150px;
+top: 650px;}
+
+.str {height: 250px;
+position: absolute;
+right: 700px;
+top: 50px;}
+  
+.middle-container {padding-top: 490px;
+}
+.bottom-container {padding-top: 50px;
+margin-left: 0%;}
+
+.work {height: 150px;
+border-radius: 10%;}
+
+.cntct {height: 150px;
+border-radius: 10%;}
+
+.calme {height: 200px;}
+
+.contact-me {background-color: rgb(65, 19, 95);}
+
+.personality {
+text-align: center;}
+
+.prsnlty {position: relative;
+height: 100px;
+border-radius: 100%;}
+
+.nct {padding-top: 1%;}
+
+.ttu {text-align: center;
+font-size: 20px;}
+
+.myUL {display: inline-block;
+text-align: left;}
+
+.work-experience {margin-top: 20px;
+font-size: 20px;}
+
+.skill {height: 250px;}
+.skills {font-size: 20px;}
+
+.button {background: linear-gradient(0deg, rgb(134, 41, 221) 0%, rgb(233, 47, 171) 90%);
+border: 2px solid rgb(127, 24, 196);
+color: white;
+padding: 15px 35px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 2em;
+margin-bottom: 30px;
+cursor: pointer;
+border-radius: 14px;
+box-shadow: 0 10px 12px 0px rgb(140, 30, 184);
+}
+
+.button:hover {background: linear-gradient(0deg, rgb(255, 136, 175) 0%, rgb(221, 38, 99) 70%);
+color: white;
+box-shadow: 0 10px 12px 0 rgb(241, 101, 148);}
+
+.hbe {height: 250px;
+border-radius: 20px;
+margin-top: 30px;}
+
+@media (max-width: 1438px) {
+  .im-esa {font-size: 130px;
+    height: 375px;
+    width: 100px;
+    text-align: center;
+    line-height: 1;}
+    
+    .cloud-l {height: 150px;
+    position: relative;
+    top: 100px;
+    right: 200px;}
+    
+    .dmplng {height: 250px;
+    position: absolute;
+    right: 80px;
+    top: 650px;}
+    
+    .bou {height: 150px;
+    position: absolute;
+    right: 100px;}
+    
+    .bou-1 {height: 200px;
+    position: absolute;
+    left: 200px;
+    top: 450px;}
+    
+    .stbry {height: 150px;
+    position: absolute;
+    left: 50px;}
+    
+    .stbry-1 {height: 200px;
+    position: absolute;
+    right: 10px;
+    top: 450px;}
+    
+    .cloud-s { height: 200px;
+    position: absolute;
+    right: 150px;
+    top: 260px;}
+    
+    .cloud-r { height: 150px;
+    left: 50px;
+    position: absolute;
+    top: 650px;}
+    
+    .hlo-cat { height: 600px;
+    position: absolute;
+    top: 460px;
+    right: 350px;}
+    
+    .puni {height: 150px;
+    position: absolute;
+    left: 10px;
+    top: 300px;}
+    
+    .bunny {height: 200px;
+    position: absolute;
+    right: 250px;
+    top: 470px;}
+    
+    .bnyluv {height: 250px;
+    position: absolute;
+    left: 300px;
+    top: 650px;}
+    
+    .str {height: 200px;
+    position: absolute;
+    right: 300px;
+    top: 100px;}
+}
+
+@media (max-width: 971px) {
+  .im-esa {font-size: 130px;
+    height: 375px;
+    width: 100px;
+    text-align: center;
+    line-height: 1;}
+    
+    .cloud-l {height: 100px;
+    position: relative;
+    top: 100px;
+    right: 200px;}
+    
+    .dmplng {height: 200px;
+    position: absolute;
+    right: 15px;
+    top: 650px;}
+    
+    .bou {height: 120px;
+    position: absolute;
+    right: 50px;}
+    
+    .bou-1 {height: 150px;
+    position: absolute;
+    left: 260px;
+    top: 440px;}
+    
+    .stbry {height: 110px;
+    position: absolute;
+    left: 50px;
+  top: 20px;}
+    
+    .stbry-1 {height: 150px;
+    position: absolute;
+    right: 50px;
+    top: 470px;}
+    
+    .cloud-s { height: 150px;
+    position: absolute;
+    right: 40px;
+    top: 230px;}
+    
+    .cloud-r { height: 120px;
+    left: 30px;
+    position: absolute;
+    top: 580px;}
+    
+    .hlo-cat { height: 600px;
+    position: absolute;
+    top: 430px;
+    right: 110px;}
+    
+    .puni {height: 130px;
+    position: absolute;
+    left: 5px;
+    top: 270px;}
+    
+    .bunny {height: 150px;
+    position: absolute;
+    right: 300px;
+    top: 375px;}
+    
+    .bnyluv {height: 200px;
+    position: absolute;
+    left: 230px;
+    top: 650px;}
+    
+    .str {height: 150px;
+    position: absolute;
+    right: 100px;
+    top: 100px;} 
+}
